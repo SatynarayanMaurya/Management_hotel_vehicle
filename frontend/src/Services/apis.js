@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000"
+const BASE_URL = "https://management-qkn3.onrender.com/"
 
 export const authEndpoints = {
     SIGNUP_API : BASE_URL + "/signup",
