@@ -116,9 +116,6 @@ This is a **MERN stack** application for managing hotels and vehicles. The platf
 9. Start the React app:
    ```bash
      npm run start
-
-
-
 ## Folder structure 
 ```hotel-vehicle-management/
   ├── backend/
