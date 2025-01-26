@@ -120,7 +120,7 @@ This is a **MERN stack** application for managing hotels and vehicles. The platf
 
 
 ## Folder structure 
-hotel-vehicle-management/
+```hotel-vehicle-management/
   ├── backend/
   │   ├── controllers/
   │   ├── models/
